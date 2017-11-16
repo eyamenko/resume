@@ -1,0 +1,155 @@
+{
+  "basics": {
+    "name": "Eugene Yamenko",
+    "label": "Mid to Senior .NET Developer",
+    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAhPAAAAJDQxYWMwMzcwLTdiNjktNDU1Ny1hYjRhLTEwZGQwMWM1ZThkNQ.jpg",
+    "email": "yamenko@me.com",
+    "phone": "(61) 415 999 681",
+    "website": "",
+    "summary": "Eugene is a passionate and creative developer who has had worked on a variety of projects and strives to create high quality work whilst at all times understanding the business needs and goals. He possesses strong written and verbal communication skills and is able to work in a high pressured environment in a large collaborative team. Eugene lives and breathes best-practice software engineering and is passionate about learning new languages and frameworks. He writes concise and elegant code in a variety of languages.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Sydney",
+      "countryCode": "Australia",
+      "region": "NSW"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "eyamenko",
+        "url": "https://github.com/eyamenko"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "eyamenko",
+        "url": "https://www.linkedin.com/in/eyamenko"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "InfoTrack",
+      "position": "Mid to Senior .NET Developer",
+      "website": "https://www.infotrack.com.au",
+      "startDate": "2017-05-29",
+      "endDate": "",
+      "summary": "InfoTrack is a technology company with a leading SaaS platform that provides intelligent search and automated workflow for professionals across the legal, conveyancing, banking, finance, insolvency, surveying, mercantile, accountancy and government sectors. InfoTrack is an indispensable partner, whose proprietary software platform helps businesses swiftly find critical information pertaining to property, company, personal and national search data.",
+      "highlights": [
+        "Contributing to new and innovative ways of producing software.",
+        "Developing new functionality for existing software products.",
+        "Participating in small, energetic teams on a rapid, agile development schedule.",
+        "Designing code, test, install, maintain, and retrofit software programs.",
+        "Analysing code non-conformities and develop code enhancements.",
+        "Providing technical assistance and information to other team members.",
+        "Responsibility for live systems, maintaining queuing systems as assigned.",
+        "Building new systems with technologies such as C# / .NET Core / SQL Server / WCF / JavaScript / React."
+      ]
+    },
+    {
+      "company": "ClickView",
+      "position": "Software Engineer",
+      "website": "https://www.clickview.com.au",
+      "startDate": "2015-04-27",
+      "endDate": "2017-05-26",
+      "summary": "ClickView is the Netflix of education! It's a fast growing company in the digital video delivery space. It makes video learning easy by building innovative tools, systems and services to provide the education sector with an intuitive platform to view and share high quality digital media. ClickView has a fast moving Product Team that ships code to production many times a week, and employs very talented engineers and designers.",
+      "highlights": [
+        "Design, implementation, maintenance and quality assurance of software components.",
+        "Delivering new features to the products. Both internal and external.",
+        "Being in charge of taking creative concepts and designs, and turning them into applications.",
+        "Responsible for developing server-side and client-side software, which is used by thousands of customers worldwide.",
+        "Working in both, Product Team and Platform Team on exciting new customer-facing features; and tackling scalability and performance.",
+        "Building new systems with technologies such as C# / ASP.NET MVC & Web API / SQL Server / MySQL / JavaScript / Backbone."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Central Queensland University",
+      "area": "Information Technology",
+      "studyType": "Master's degree with Distinction",
+      "startDate": "2013-07-01",
+      "endDate": "2015-08-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "MCPS: Microsoft Certified Professional",
+      "date": "2016-07-01",
+      "awarder": "Microsoft",
+      "summary": ""
+    },
+    {
+      "title": "MS: Programming in C#",
+      "date": "2016-07-01",
+      "awarder": "Microsoft",
+      "summary": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": ".NET",
+      "level": "",
+      "keywords": [
+        "C#",
+        "ASP.NET MVC/Web API/Core",
+        "WCF"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": [
+        "React",
+        "Backbone",
+        "jQuery"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": [
+        "SQL Server",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "VCS",
+      "level": "",
+      "keywords": [
+        "Git",
+        "SVN"
+      ]
+    },
+    {
+      "name": "Other",
+      "level": "",
+      "keywords": [
+        "AWS",
+        "HTML",
+        "CSS",
+        "Bootstrap"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Ukrainian",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
