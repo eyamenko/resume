@@ -43,7 +43,7 @@
         "Analysing code non-conformities and develop code enhancements.",
         "Providing technical assistance and information to other team members.",
         "Responsibility for live systems, maintaining queuing systems as assigned.",
-        "Building new systems with technologies such as C# / .NET Core / SQL Server / WCF / JavaScript / React."
+        "Building new systems with technologies such as C# / .NET Core / SQL Server / MySQL / RabbitMQ / JavaScript / React."
       ]
     },
     {
@@ -52,7 +52,7 @@
       "website": "https://www.clickview.com.au",
       "startDate": "2015-04-27",
       "endDate": "2017-05-26",
-      "summary": "ClickView is the Netflix of education! It's a fast growing company in the digital video delivery space. It makes video learning easy by building innovative tools, systems and services to provide the education sector with an intuitive platform to view and share high quality digital media. ClickView has a fast moving Product Team that ships code to production many times a week, and employs very talented engineers and designers.",
+      "summary": "ClickView is the Netflix of education! It's a fast growing company in the digital video delivery space. It makes video learning easy by building innovative tools, systems and services to provide the education sector with an intuitive platform to view and share high quality digital media. ClickView has a fast moving Product Team that ships code to production many times a week; and it employs very talented engineers and designers.",
       "highlights": [
         "Design, implementation, maintenance and quality assurance of software components.",
         "Delivering new features to the products. Both internal and external.",
@@ -96,8 +96,8 @@
       "level": "",
       "keywords": [
         "C#",
-        "ASP.NET MVC/Web API/Core",
-        "WCF"
+        ".NET Core",
+        "ASP.NET MVC & Web API"
       ]
     },
     {
@@ -118,11 +118,12 @@
       ]
     },
     {
-      "name": "VCS",
+      "name": "Web",
       "level": "",
       "keywords": [
-        "Git",
-        "SVN"
+        "HTML",
+        "CSS",
+        "Bootstrap"
       ]
     },
     {
@@ -130,9 +131,8 @@
       "level": "",
       "keywords": [
         "AWS",
-        "HTML",
-        "CSS",
-        "Bootstrap"
+        "Git",
+        "RabbitMQ"
       ]
     }
   ],
