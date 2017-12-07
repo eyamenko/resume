@@ -43,7 +43,7 @@
         "Analysing code non-conformities and develop code enhancements.",
         "Providing technical assistance and information to other team members.",
         "Responsibility for live systems, maintaining queuing systems as assigned.",
-        "Building new systems with technologies such as C# / .NET Core / SQL Server / MySQL / RabbitMQ / JavaScript / React."
+        "Building new systems with technologies such as C# / .NET Core / SQL Server / MySQL / RabbitMQ / JavaScript / React / AWS."
       ]
     },
     {
@@ -59,7 +59,7 @@
         "Being in charge of taking creative concepts and designs, and turning them into applications.",
         "Responsible for developing server-side and client-side software, which is used by thousands of customers worldwide.",
         "Working in both, Product Team and Platform Team on exciting new customer-facing features; and tackling scalability and performance.",
-        "Building new systems with technologies such as C# / ASP.NET MVC & Web API / SQL Server / MySQL / JavaScript / Backbone."
+        "Building new systems with technologies such as C# / ASP.NET MVC & Web API / SQL Server / MySQL / JavaScript / Backbone / Azure."
       ]
     }
   ],
@@ -127,12 +127,22 @@
       ]
     },
     {
+      "name": "CI/CD",
+      "level": "",
+      "keywords": [
+        "Docker",
+        "Octopus",
+        "TeamCity"
+      ]
+    },
+    {
       "name": "Other",
       "level": "",
       "keywords": [
         "AWS",
         "Git",
-        "RabbitMQ"
+        "RabbitMQ",
+        "Microservices"
       ]
     }
   ],
