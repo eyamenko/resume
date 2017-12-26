@@ -73,6 +73,24 @@
       "endDate": "2015-08-01",
       "gpa": "",
       "courses": []
+    },
+    {
+      "institution": "International Scientific and Technical University",
+      "area": "Information Management Systems and Technologies",
+      "studyType": "Master's degree",
+      "startDate": "2010-09-15",
+      "endDate": "2012-03-27",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "International Scientific and Technical University",
+      "area": "Computer Science",
+      "studyType": "Bachelor's degree",
+      "startDate": "2006-10-01",
+      "endDate": "2010-06-29",
+      "gpa": "",
+      "courses": []
     }
   ],
   "awards": [
