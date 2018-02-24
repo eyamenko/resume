@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Eugene Yamenko",
-    "label": "Mid to Senior .NET Developer",
+    "label": "Senior Software Engineer",
     "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAhPAAAAJDQxYWMwMzcwLTdiNjktNDU1Ny1hYjRhLTEwZGQwMWM1ZThkNQ.jpg",
     "email": "yamenko@me.com",
-    "phone": "(61) 415 999 681",
+    "phone": "+61 415 999 681",
     "website": "",
     "summary": "Eugene is a passionate and creative developer who has had worked on a variety of projects and strives to create high quality work whilst at all times understanding the business needs and goals. He possesses strong written and verbal communication skills and is able to work in a high pressured environment in a large collaborative team. Eugene lives and breathes best-practice software engineering and is passionate about learning new languages and frameworks. He writes concise and elegant code in a variety of languages.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Sydney",
-      "countryCode": "Australia",
-      "region": "NSW"
+      "city": "Sydney,",
+      "countryCode": "",
+      "region": "Australia"
     },
     "profiles": [
       {
@@ -29,11 +29,27 @@
   },
   "work": [
     {
+      "company": "Domain",
+      "position": "Senior Software Engineer",
+      "website": "https://www.domain.com.au",
+      "startDate": "2018-02-19",
+      "endDate": "",
+      "summary": "Domain Group is the fastest growing major real-estate marketing business in Australia. Domain engages with almost every real estate agent in Australia and every month millions of Australians use its products in pursuit of their next home. Domain Group's purpose is to inform, inspire and connect people throughout the property lifecycle.",
+      "highlights": [
+        "ASP.NET Web API (with both .NET and .NET Core)",
+        "Microservices",
+        "SQL Server",
+        "Elasticsearch",
+        "Redis",
+        "AWS"
+      ]
+    },
+    {
       "company": "InfoTrack",
       "position": "Mid to Senior .NET Developer",
       "website": "https://www.infotrack.com.au",
       "startDate": "2017-05-29",
-      "endDate": "",
+      "endDate": "2018-02-02",
       "summary": "InfoTrack is a technology company with a leading SaaS platform that provides intelligent search and automated workflow for professionals across the legal, conveyancing, banking, finance, insolvency, surveying, mercantile, accountancy and government sectors. InfoTrack is an indispensable partner, whose proprietary software platform helps businesses swiftly find critical information pertaining to property, company, personal and national search data.",
       "highlights": [
         "Contributing to new and innovative ways of producing software.",
@@ -154,7 +170,7 @@
       ]
     },
     {
-      "name": "Other",
+      "name": "Others",
       "level": "",
       "keywords": [
         "AWS",
