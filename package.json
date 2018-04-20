@@ -1,0 +1,13 @@
+{
+  "name": "resume",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "jsonresume-theme-spartan": "^0.2.1",
+    "replace": "^0.3.0",
+    "resume-cli": "^0.4.19"
+  },
+  "scripts": {
+    "build": "resume export resume.html --theme spartan && replace 'Awards' 'Certifications' resume.html"
+  }
+}

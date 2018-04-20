@@ -2,7 +2,7 @@
   "basics": {
     "name": "Eugene Yamenko",
     "label": "Senior Software Engineer",
-    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAhPAAAAJDQxYWMwMzcwLTdiNjktNDU1Ny1hYjRhLTEwZGQwMWM1ZThkNQ.jpg",
+    "picture": "https://media.licdn.com/dms/image/C5603AQEV2zlBh5uPGw/profile-displayphoto-shrink_200_200/0?e=1529402400&v=beta&t=d6fopienmInxv49TjlE0TnkCth9Jlu0EIJs6MXBR7ik",
     "email": "yamenko@me.com",
     "phone": "+61 415 999 681",
     "website": "",
@@ -34,7 +34,7 @@
       "website": "https://www.domain.com.au",
       "startDate": "2018-02-19",
       "endDate": "",
-      "summary": "Domain Group is the fastest growing major real-estate marketing business in Australia. Domain engages with almost every real estate agent in Australia and every month millions of Australians use its products in pursuit of their next home. Domain Group's purpose is to inform, inspire and connect people throughout the property lifecycle.",
+      "summary": "Domain Group is the fastest growing major real-estate marketing business in Australia. Domain engages with almost every real estate agent in Australia and every month millions of Australians use its products in pursuit of their next home. Domain Group's purpose is to inform, inspire and connect people throughout the property life cycle.",
       "highlights": [
         "ASP.NET Web API (with both .NET and .NET Core)",
         "Microservices",
@@ -56,7 +56,7 @@
         "Developing new functionality for existing software products.",
         "Participating in small, energetic teams on a rapid, agile development schedule.",
         "Designing code, test, install, maintain, and retrofit software programs.",
-        "Analysing code non-conformities and develop code enhancements.",
+        "Analyzing code non-conformities and develop code enhancements.",
         "Providing technical assistance and information to other team members.",
         "Responsibility for live systems, maintaining queuing systems as assigned.",
         "Building new systems with technologies such as C# / .NET Core / SQL Server / MySQL / RabbitMQ / JavaScript / React / AWS."
