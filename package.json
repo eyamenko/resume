@@ -8,6 +8,6 @@
     "resume-cli": "^0.4.19"
   },
   "scripts": {
-    "build": "resume export resume.html --theme spartan && replace 'Awards' 'Certifications' resume.html"
+    "build": "resume export resume.html --theme spartan && replace \"Awards\" \"Certifications\" resume.html"
   }
 }
