@@ -37,6 +37,7 @@
       "summary": "Domain Group is the fastest growing major real-estate marketing business in Australia. Domain engages with almost every real estate agent in Australia and every month millions of Australians use its products in pursuit of their next home. Domain Group's purpose is to inform, inspire and connect people throughout the property life cycle.",
       "highlights": [
         "ASP.NET Web API (with both .NET and .NET Core)",
+        "React",
         "Microservices",
         "SQL Server",
         "Elasticsearch",
