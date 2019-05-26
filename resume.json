@@ -4,7 +4,7 @@
     "label": "Senior Software Engineer",
     "picture": "https://raw.githubusercontent.com/eyamenko/resume/master/photo.jpg",
     "email": "yamenko@me.com",
-    "phone": "+61 415 999 681",
+    "phone": "+61 451 319 657",
     "website": "",
     "summary": "Australian born in USSR. Eugene is a passionate and creative developer who has had worked on a variety of projects and strives to create high quality work whilst at all times understanding the business needs and goals. He possesses strong written and verbal communication skills and is able to work in a high pressured environment in a large collaborative team. Eugene lives and breathes best-practice software engineering and is passionate about learning new languages and frameworks. He writes concise and elegant code in a variety of languages.",
     "location": {
@@ -24,6 +24,16 @@
         "network": "LinkedIn",
         "username": "eyamenko",
         "url": "https://www.linkedin.com/in/eyamenko"
+      },
+      {
+        "network": "Twitter",
+        "username": "eyamenko",
+        "url": "https://twitter.com/eyamenko"
+      },
+      {
+        "network": "Stack Overflow",
+        "username": "2829523",
+        "url": "https://stackoverflow.com/users/2829523"
       }
     ]
   },
@@ -33,34 +43,15 @@
       "position": "Senior Software Engineer",
       "website": "https://www.domain.com.au",
       "startDate": "2018-02-19",
-      "summary": "Domain Group is the fastest growing major real-estate marketing business in Australia. Domain engages with almost every real estate agent in Australia and every month millions of Australians use its products in pursuit of their next home. Domain Group's purpose is to inform, inspire and connect people throughout the property life cycle.",
-      "highlights": [
-        "ASP.NET Web API (with both .NET and .NET Core)",
-        "React",
-        "Microservices",
-        "SQL Server",
-        "Elasticsearch",
-        "Redis",
-        "AWS"
-      ]
+      "summary": "Domain Group is the fastest growing major real-estate marketing business in Australia. Domain engages with almost every real estate agent in Australia and every month millions of Australians use its products in pursuit of their next home. Domain Group's purpose is to inform, inspire and connect people throughout the property life cycle."
     },
     {
       "company": "InfoTrack",
-      "position": "Mid to Senior .NET Developer",
+      "position": ".NET Developer",
       "website": "https://www.infotrack.com.au",
       "startDate": "2017-05-29",
       "endDate": "2018-02-02",
-      "summary": "InfoTrack is a technology company with a leading SaaS platform that provides intelligent search and automated workflow for professionals across the legal, conveyancing, banking, finance, insolvency, surveying, mercantile, accountancy and government sectors. InfoTrack is an indispensable partner, whose proprietary software platform helps businesses swiftly find critical information pertaining to property, company, personal and national search data.",
-      "highlights": [
-        "Contributing to new and innovative ways of producing software.",
-        "Developing new functionality for existing software products.",
-        "Participating in small, energetic teams on a rapid, agile development schedule.",
-        "Designing code, test, install, maintain, and retrofit software programs.",
-        "Analyzing code non-conformities and develop code enhancements.",
-        "Providing technical assistance and information to other team members.",
-        "Responsibility for live systems, maintaining queuing systems as assigned.",
-        "Building new systems with technologies such as C# / .NET Core / SQL Server / MySQL / RabbitMQ / JavaScript / React / AWS."
-      ]
+      "summary": "InfoTrack is a technology company with a leading SaaS platform that provides intelligent search and automated workflow for professionals across the legal, conveyancing, banking, finance, insolvency, surveying, mercantile, accountancy and government sectors. InfoTrack is an indispensable partner, whose proprietary software platform helps businesses swiftly find critical information pertaining to property, company, personal and national search data."
     },
     {
       "company": "ClickView",
@@ -68,15 +59,7 @@
       "website": "https://www.clickview.com.au",
       "startDate": "2015-04-27",
       "endDate": "2017-05-26",
-      "summary": "ClickView is the Netflix of education! It's a fast growing company in the digital video delivery space. It makes video learning easy by building innovative tools, systems and services to provide the education sector with an intuitive platform to view and share high quality digital media. ClickView has a fast moving Product Team that ships code to production many times a week; and it employs very talented engineers and designers.",
-      "highlights": [
-        "Design, implementation, maintenance and quality assurance of software components.",
-        "Delivering new features to the products. Both internal and external.",
-        "Being in charge of taking creative concepts and designs, and turning them into applications.",
-        "Responsible for developing server-side and client-side software, which is used by thousands of customers worldwide.",
-        "Working in both, Product Team and Platform Team on exciting new customer-facing features; and tackling scalability and performance.",
-        "Building new systems with technologies such as C# / ASP.NET MVC & Web API / SQL Server / MySQL / JavaScript / Backbone / Azure."
-      ]
+      "summary": "ClickView is the Netflix of education! It's a fast growing company in the digital video delivery space. It makes video learning easy by building innovative tools, systems and services to provide the education sector with an intuitive platform to view and share high quality digital media. ClickView has a fast moving Product Team that ships code to production many times a week; and it employs very talented engineers and designers."
     }
   ],
   "volunteer": [],

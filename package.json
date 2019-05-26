@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "jsonresume-theme-spartan": "^0.2.1",
-    "replace": "^1.0.0",
+    "replace": "^1.1.0",
     "resume-cli": "^1.1.2"
   },
   "scripts": {
