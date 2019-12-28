@@ -112,7 +112,7 @@
       "level": "",
       "keywords": [
         "React",
-        "Backbone",
+        "Backbone.js",
         "jQuery"
       ]
     },
@@ -120,7 +120,7 @@
       "name": "SQL",
       "level": "",
       "keywords": [
-        "SQL Server",
+        "Microsoft SQL Server",
         "MySQL"
       ]
     },
@@ -138,7 +138,7 @@
       "level": "",
       "keywords": [
         "Docker",
-        "Octopus",
+        "Octopus Deploy",
         "TeamCity"
       ]
     },
@@ -148,7 +148,6 @@
       "keywords": [
         "AWS",
         "Git",
-        "RabbitMQ",
         "Microservices"
       ]
     }
