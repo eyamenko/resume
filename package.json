@@ -3,11 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "jsonresume-theme-spartan-extended": "^0.4.1",
+    "jsonresume-theme-onepage": "0.0.3",
     "replace": "^1.1.1",
     "resume-cli": "^1.2.7"
   },
   "scripts": {
-    "build": "resume export resume.html --theme spartan-extended && replace \"Awards\" \"Certifications\" resume.html"
+    "build": "resume export resume.html --theme onepage && replace \"AWARDS\" \"CERTIFICATIONS\" resume.html"
   }
 }

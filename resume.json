@@ -2,19 +2,24 @@
   "basics": {
     "name": "Eugene Yamenko",
     "label": "Senior Software Engineer",
-    "picture": "https://raw.githubusercontent.com/eyamenko/resume/master/photo.jpg",
+    "picture": "",
     "email": "yamenko@me.com",
     "phone": "+61 451 319 657",
-    "website": "https://CodingComrade.com",
-    "summary": "Senior Software Engineer with many years of experience in the software development field.\n● Skillful in backend, frontend and cloud technologies (.NET, React, AWS).\n● Possession of strong communication and mentoring skills.\n● Experience designing and building complex large scale data driven systems.\n● Knowledge of best practices across the full software development life cycle.",
+    "website": "",
+    "summary": "Senior Software Engineer with 5 years of experience in the software development field. Skillful in backend, frontend and cloud technologies (.NET, React, AWS). Possession of strong communication and mentoring skills. Experience designing and building complex large scale data driven systems. Knowledge of best practices across the full software development life cycle.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "",
-      "countryCode": "AU",
-      "region": "Sydney"
+      "city": "Sydney",
+      "countryCode": "",
+      "region": "Australia"
     },
     "profiles": [
+      {
+        "network": "Blog",
+        "username": "",
+        "url": "https://CodingComrade.com"
+      },
       {
         "network": "GitHub",
         "username": "eyamenko",
@@ -23,7 +28,7 @@
       {
         "network": "LinkedIn",
         "username": "eyamenko",
-        "url": "https://www.linkedin.com/in/eyamenko"
+        "url": "https://linkedin.com/in/eyamenko"
       }
     ]
   },
@@ -33,7 +38,7 @@
       "position": "Senior Software Engineer",
       "website": "https://www.domain.com.au",
       "startDate": "2018-02-19",
-      "summary": "Domain Group offers an ecosystem of leading multi-platform property solutions.",
+      "summary": "",
       "highlights": [
         "Converted legacy listing processing systems to use APIs.",
         "Built a client application for support to manage listings in migration between CRM providers.",
@@ -49,7 +54,7 @@
       "website": "https://www.infotrack.com.au",
       "startDate": "2017-05-29",
       "endDate": "2018-02-02",
-      "summary": "InfoTrack is the leading innovator in legal technology.",
+      "summary": "",
       "highlights": [
         "Split company’s main monolithic application into a smaller maintainable applications.",
         "Built an email service, used by all other teams.",
@@ -62,7 +67,7 @@
       "website": "https://www.clickview.com.au",
       "startDate": "2015-04-27",
       "endDate": "2017-05-26",
-      "summary": "ClickView is Australia’s leading educational video company.",
+      "summary": "",
       "highlights": [
         "Built a system to send out and track promotional and recommendation emails.",
         "Built a client application for end users to store and manage uploaded videos.",
@@ -79,7 +84,7 @@
       "area": "Information Technology",
       "studyType": "Master’s degree with Distinction",
       "startDate": "2013-07-01",
-      "endDate": "2015-08-01",
+      "endDate": "2015-07-27",
       "gpa": "",
       "courses": []
     },
@@ -172,20 +177,7 @@
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    },
-    {
-      "language": "Russian",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "Ukrainian",
-      "fluency": "Native speaker"
-    }
-  ],
+  "languages": [],
   "interests": [],
   "references": []
 }
