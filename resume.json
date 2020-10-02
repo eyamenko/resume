@@ -40,14 +40,16 @@
       "startDate": "2018-02-19",
       "summary": "",
       "highlights": [
+        "Created a continuous deployment pipeline for containerised services using AWS CDK and Octopus Deploy.",
+        "Containerised and deployed to AWS ECS 15+ services.",
+        "Took ownership of the image service. Improved performance by 10% and increased resource utilisation.",
+        "Built the API backend for the Domain's Early Access product.",
         "Converted legacy listing processing systems to use APIs.",
         "Built a client application for support to manage listings in migration between CRM providers.",
         "Integrated with an external partner to display agent reviews.",
-        "Re-factored, stabilized and optimized numerous listing processing and listing retrieval components.",
+        "Re-factored, stabilised and optimised numerous listing processing and retrieval components.",
         "Built a client application for agents to manage related development projects.",
-        "Was nominated for an internal recognition program for being passionate about software development practices.",
-        "Created a continuous deployment pipeline using AWS ECS, AWS CDK and Octopus Deploy.",
-        "...and many more APIs, features and enhancements."
+        "Was nominated for an internal recognition program for being passionate about the software development practices."
       ]
     },
     {
@@ -58,9 +60,9 @@
       "endDate": "2018-02-02",
       "summary": "",
       "highlights": [
-        "Split company’s main monolithic application into a smaller maintainable applications.",
-        "Built an email service, used by all other teams.",
-        "Participated in the architectural group, which advised on software design and architecture."
+        "Split the company’s main monolithic application into a smaller maintainable applications.",
+        "Built an email service used by all other teams.",
+        "Participated in the architectural group, which advised on the software design and architecture."
       ]
     },
     {
@@ -75,7 +77,7 @@
         "Built a client application for end users to store and manage uploaded videos.",
         "Implemented a custom integration with Salesforce.",
         "Built an application for curators to manage video resources.",
-        "Organized and regularly presented at monthly internal meetups."
+        "Organised and regularly presented at the monthly internal meetups."
       ]
     }
   ],
