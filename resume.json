@@ -141,8 +141,7 @@
       "level": "",
       "keywords": [
         "React",
-        "Backbone.js",
-        "jQuery"
+        "TypeScript"
       ]
     },
     {
@@ -154,30 +153,23 @@
       ]
     },
     {
-      "name": "Web",
+      "name": "DevOps",
       "level": "",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Bootstrap"
-      ]
-    },
-    {
-      "name": "CI/CD",
-      "level": "",
-      "keywords": [
+        "AWS",
         "Docker",
-        "Octopus Deploy",
-        "TeamCity"
+        "TeamCity",
+        "Octopus Deploy"
       ]
     },
     {
       "name": "Others",
       "level": "",
       "keywords": [
-        "AWS",
         "Git",
-        "Microservices"
+        "TDD",
+        "Microservices",
+        "Agile Software Development"
       ]
     }
   ],
