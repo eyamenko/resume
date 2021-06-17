@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Eugene Yamenko",
-    "label": "Senior Software Engineer",
+    "label": "Technical Lead",
     "picture": "",
     "email": "yamenko@me.com",
     "phone": "+61 451 319 657",
     "website": "",
-    "summary": "Senior Software Engineer with 6+ years of commercial experience in the software development field. Skillful in backend, frontend and cloud technologies (.NET, React, AWS). Possession of strong communication and mentoring skills. Experience designing and building complex large scale data driven systems. Knowledge of best practices across the full software development life cycle.",
+    "summary": "Technical Lead with 6+ years of commercial experience in the software development field. Skillful in backend, frontend and cloud technologies. Possession of strong communication and mentoring skills. Experience designing and building complex large scale data driven systems. Knowledge of best practices across the full software development life cycle.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -35,9 +35,34 @@
   "work": [
     {
       "company": "Domain",
+      "position": "Technical Lead",
+      "website": "https://www.domain.com.au",
+      "startDate": "2021-06-14",
+      "summary": "",
+      "highlights": [
+        "Participate in the entire development process, scoping, estimating and refining the product backlog.",
+        "Lead by example, working with the team to implement solutions.",
+        "Contribute to fostering a collaborative team environment, where all members can contribute and be heard as part of the technical decision making process.",
+        "Working with the team to find technical solutions.",
+        "Writing clean, tested, scalable and performant solutions.",
+        "Escalating technical problems when needed.",
+        "Set technical architecture vision, and steer technical work in that direction over time.",
+        "Responsible and accountable for technical decision making.",
+        "Responsible for the engineering health, e.g. prioritising tech debt, approach to quality, technical iteration of platforms (migration and decommissioning of legacy platforms).",
+        "Give input into the project planning and risk identification.",
+        "Assess new technologies for opportunities which align with customer and business interests.",
+        "Work with developers to ensure technology decisions align with best practices and technical direction.",
+        "Ensure team members are cross trained, enabling them to work across all systems supported by the team.",
+        "Contribute towards the continual improvement of the team.",
+        "Working with Software Engineers, Product Designers, Product Managers and other key people to prioritise technology roadmap in the interest of customers and the business."
+      ]
+    },
+    {
+      "company": "Domain",
       "position": "Senior Software Engineer",
       "website": "https://www.domain.com.au",
       "startDate": "2018-02-19",
+      "endDate": "2021-06-13",
       "summary": "",
       "highlights": [
         "Created a continuous deployment pipeline for containerised services using AWS CDK and Octopus Deploy.",
