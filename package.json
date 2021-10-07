@@ -8,6 +8,6 @@
     "resume-cli": "^1.2.7"
   },
   "scripts": {
-    "build": "resume export resume.html --theme onepage && replace \"AWARDS\" \"CERTIFICATIONS\" resume.html"
+    "build": "resume export resume.html --theme onepage"
   }
 }
