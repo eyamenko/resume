@@ -55,6 +55,7 @@
       "highlights": [
         "Reduced cached data size by 72% by storing data in a compressed binary serialisation format leading to an improved network latency, lower bandwidth usage and more cached data.",
         "Increased performance by 14% for an on-demand imaging service by migrating it to a different instance type and switching to an image engine optimised for that processor architecture.",
+        "Built an API backend and worker services for the off-market properties product.",
         "Reduced service operational costs by 60% by modernising and containerising 18 services; and utilising a scalable container management platform.",
         "Built a frontend application to manage listings in migration between listing providers.",
         "Introduced and adopted infrastructure as code tools; and created libraries for deploying load balanced, worker and scheduled services.",
