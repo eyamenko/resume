@@ -6,7 +6,7 @@
     "email": "yamenko@me.com",
     "phone": "+61 451 319 657",
     "website": "",
-    "summary": "Technical Lead with 6+ years of commercial experience in the software development field. Skillful in backend, frontend and cloud technologies. Possession of strong communication and mentoring skills. Experience designing and building complex large scale data driven systems. Knowledge of best practices across the full software development life cycle.",
+    "summary": "Technical Lead with 6 years of professional experience in software development. Skilful in backend, frontend and cloud technologies. Possession of strong communication and mentoring skills. Experience designing and building complex large scale data driven systems. Knowledge of best practices across the full software development life cycle.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -40,21 +40,9 @@
       "startDate": "2021-06-14",
       "summary": "",
       "highlights": [
-        "Participate in the entire development process, scoping, estimating and refining the product backlog.",
-        "Lead by example, working with the team to implement solutions.",
-        "Contribute to fostering a collaborative team environment, where all members can contribute and be heard as part of the technical decision making process.",
-        "Working with the team to find technical solutions.",
-        "Writing clean, tested, scalable and performant solutions.",
-        "Escalating technical problems when needed.",
-        "Set technical architecture vision, and steer technical work in that direction over time.",
-        "Responsible and accountable for technical decision making.",
-        "Responsible for the engineering health, e.g. prioritising tech debt, approach to quality, technical iteration of platforms (migration and decommissioning of legacy platforms).",
-        "Give input into the project planning and risk identification.",
-        "Assess new technologies for opportunities which align with customer and business interests.",
-        "Work with developers to ensure technology decisions align with best practices and technical direction.",
-        "Ensure team members are cross trained, enabling them to work across all systems supported by the team.",
-        "Contribute towards the continual improvement of the team.",
-        "Working with Software Engineers, Product Designers, Product Managers and other key people to prioritise technology roadmap in the interest of customers and the business."
+        "Reduced an average response time by 23% by avoiding the file system buffering for large response objects.",
+        "Created a technology strategy for the team along with an audit of the existing solutions.",
+        "Performed regular knowledge sharing presentations for the team and the broader technology community within the company."
       ]
     },
     {
@@ -65,15 +53,12 @@
       "endDate": "2021-06-13",
       "summary": "",
       "highlights": [
-        "Created a continuous deployment pipeline for containerised services using AWS CDK and Octopus Deploy.",
-        "Containerised and deployed to AWS ECS 15+ services.",
-        "Took ownership of the image service. Improved performance by 10% and increased resource utilisation.",
-        "Built the API backend for the Domain's Early Access product.",
-        "Converted legacy listing processing systems to use APIs.",
-        "Built a client application for support to manage listings in migration between CRM providers.",
-        "Integrated with an external partner to display agent reviews.",
-        "Re-factored, stabilised and optimised numerous listing processing and retrieval components.",
-        "Built a client application for agents to manage related development projects.",
+        "Reduced cached data size by 72% by storing data in a compressed binary serialisation format leading to an improved network latency, lower bandwidth usage and more cached data.",
+        "Increased performance by 14% for an on-demand imaging service by migrating it to a different instance type and switching to an image engine optimised for that processor architecture.",
+        "Reduced service operational costs by 60% by modernising and containerising 18 services; and utilising a scalable container management platform.",
+        "Built a frontend application to manage listings in migration between listing providers.",
+        "Introduced and adopted infrastructure as code tools; and created libraries for deploying load balanced, worker and scheduled services.",
+        "Built a frontend application to manage related development projects.",
         "Was nominated for an internal recognition program for being passionate about the software development practices."
       ]
     },
@@ -85,9 +70,8 @@
       "endDate": "2018-02-02",
       "summary": "",
       "highlights": [
-        "Split the company’s main monolithic application into a smaller maintainable applications.",
-        "Built an email service used by all other teams.",
-        "Participated in the architectural group, which advised on the software design and architecture."
+        "Split the company’s main monolithic application into smaller maintainable applications.",
+        "Was a part of the architectural group, which advised on the software design and architecture."
       ]
     },
     {
@@ -98,11 +82,10 @@
       "endDate": "2017-05-26",
       "summary": "",
       "highlights": [
-        "Built a system to send out and track promotional and recommendation emails.",
-        "Built a client application for end users to store and manage uploaded videos.",
+        "Built a service to send out and track promotional and recommendation emails.",
         "Implemented a custom integration with Salesforce.",
-        "Built an application for curators to manage video resources.",
-        "Organised and regularly presented at the monthly internal meetups."
+        "Built a frontend application for end users to store and manage uploaded videos.",
+        "Organised and regularly presented at the monthly internal knowledge sharing events."
       ]
     }
   ],
@@ -140,48 +123,47 @@
   "publications": [],
   "skills": [
     {
-      "name": ".NET",
+      "name": "Languages",
       "level": "",
       "keywords": [
         "C#",
-        ".NET Core",
-        "ASP.NET MVC & Web API"
+        "JavaScript/TypeScript"
       ]
     },
     {
-      "name": "JavaScript",
-      "level": "",
-      "keywords": [
-        "React",
-        "TypeScript"
-      ]
-    },
-    {
-      "name": "SQL",
+      "name": "Databases",
       "level": "",
       "keywords": [
         "Microsoft SQL Server",
-        "MySQL"
+        "DynamoDB",
+        "Redis"
       ]
     },
     {
-      "name": "DevOps",
+      "name": "Infrastructure",
       "level": "",
       "keywords": [
         "AWS",
-        "Docker",
-        "TeamCity",
-        "Octopus Deploy"
+        "AWS Cloud Development Kit",
+        "Docker"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "",
+      "keywords": [
+        "ASP.NET Core",
+        "React"
       ]
     },
     {
       "name": "Others",
       "level": "",
       "keywords": [
-        "Git",
-        "TDD",
         "Microservices",
-        "Agile Software Development"
+        "Agile software development",
+        "Test-driven development",
+        "Git"
       ]
     }
   ],

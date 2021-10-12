@@ -4,8 +4,7 @@
   "private": true,
   "dependencies": {
     "jsonresume-theme-onepage": "0.0.3",
-    "replace": "^1.2.0",
-    "resume-cli": "^1.2.7"
+    "resume-cli": "^3.0.0"
   },
   "scripts": {
     "build": "resume export resume.html --theme onepage"
