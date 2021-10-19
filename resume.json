@@ -40,7 +40,7 @@
       "startDate": "2021-06-14",
       "summary": "",
       "highlights": [
-        "Reduced an average response time by 23% by avoiding the file system buffering for large response objects.",
+        "Reduced an average response time by 23% for a listing retrieval service by avoiding the file system buffering for large response objects.",
         "Created a technology strategy for the team along with an audit of the existing solutions.",
         "Performed regular knowledge sharing presentations for the team and the broader technology community within the company."
       ]
