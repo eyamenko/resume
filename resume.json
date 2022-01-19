@@ -2,22 +2,16 @@
   "basics": {
     "name": "Eugene Yamenko",
     "label": "Technical Lead",
-    "picture": "",
     "email": "yamenko@me.com",
     "phone": "+61 451 319 657",
-    "website": "",
     "summary": "Technical Lead with 7 years of professional experience in software development. Skilful in backend, frontend and cloud technologies. Possession of strong communication and mentoring skills. Experience designing and building complex large scale data driven systems. Knowledge of best practices across the full software development life cycle.",
     "location": {
-      "address": "",
-      "postalCode": "",
       "city": "Sydney",
-      "countryCode": "",
       "region": "Australia"
     },
     "profiles": [
       {
         "network": "Blog",
-        "username": "",
         "url": "https://CodingComrade.com"
       },
       {
@@ -38,7 +32,6 @@
       "position": "Technical Lead",
       "website": "https://www.domain.com.au",
       "startDate": "2021-06-14",
-      "summary": "",
       "highlights": [
         "Reduced an average response time by 23% for a listing retrieval service by avoiding the file system buffering for large response objects.",
         "Created a technology strategy for the team along with an audit of the existing solutions.",
@@ -51,7 +44,6 @@
       "website": "https://www.domain.com.au",
       "startDate": "2018-02-19",
       "endDate": "2021-06-13",
-      "summary": "",
       "highlights": [
         "Reduced cached data size by 72% by storing data in a compressed binary serialisation format leading to an improved network latency, lower bandwidth usage and more cached data.",
         "Increased performance by 14% for an on-demand imaging service by migrating it to a different instance type and switching to an image engine optimised for that processor architecture.",
@@ -59,8 +51,7 @@
         "Reduced service operational costs by 60% by modernising and containerising 18 services; and utilising a scalable container management platform.",
         "Built a frontend application to manage listings in migration between listing providers.",
         "Introduced and adopted infrastructure as code tools; and created libraries for deploying load balanced, worker and scheduled services.",
-        "Built a frontend application to manage related development projects.",
-        "Was nominated for an internal recognition program for being passionate about the software development practices."
+        "Built a frontend application to manage related development projects."
       ]
     },
     {
@@ -69,7 +60,6 @@
       "website": "https://www.infotrack.com.au",
       "startDate": "2017-05-29",
       "endDate": "2018-02-02",
-      "summary": "",
       "highlights": [
         "Split the company’s main monolithic application into smaller maintainable applications.",
         "Was a part of the architectural group, which advised on the software design and architecture."
@@ -81,7 +71,6 @@
       "website": "https://www.clickview.com.au",
       "startDate": "2015-04-27",
       "endDate": "2017-05-26",
-      "summary": "",
       "highlights": [
         "Built a service to send out and track promotional and recommendation emails.",
         "Implemented a custom integration with Salesforce.",
@@ -90,42 +79,32 @@
       ]
     }
   ],
-  "volunteer": [],
   "education": [
     {
       "institution": "Central Queensland University",
       "area": "Information Technology",
       "studyType": "Master’s degree with Distinction",
       "startDate": "2013-07-01",
-      "endDate": "2015-07-27",
-      "gpa": "",
-      "courses": []
+      "endDate": "2015-07-27"
     },
     {
       "institution": "International Scientific and Technical University",
       "area": "Information Management Systems and Technologies",
       "studyType": "Master’s degree",
       "startDate": "2010-09-15",
-      "endDate": "2012-03-27",
-      "gpa": "",
-      "courses": []
+      "endDate": "2012-03-27"
     },
     {
       "institution": "International Scientific and Technical University",
       "area": "Computer Science",
       "studyType": "Bachelor’s degree",
       "startDate": "2006-10-01",
-      "endDate": "2010-06-29",
-      "gpa": "",
-      "courses": []
+      "endDate": "2010-06-29"
     }
   ],
-  "awards": [],
-  "publications": [],
   "skills": [
     {
       "name": "Languages",
-      "level": "",
       "keywords": [
         "C#",
         "JavaScript/TypeScript"
@@ -133,7 +112,6 @@
     },
     {
       "name": "Databases",
-      "level": "",
       "keywords": [
         "Microsoft SQL Server",
         "DynamoDB",
@@ -142,7 +120,6 @@
     },
     {
       "name": "Infrastructure",
-      "level": "",
       "keywords": [
         "AWS",
         "AWS Cloud Development Kit",
@@ -151,7 +128,6 @@
     },
     {
       "name": "Frameworks",
-      "level": "",
       "keywords": [
         "ASP.NET Core",
         "React"
@@ -159,7 +135,6 @@
     },
     {
       "name": "Others",
-      "level": "",
       "keywords": [
         "Microservices",
         "Agile software development",
@@ -167,8 +142,5 @@
         "Git"
       ]
     }
-  ],
-  "languages": [],
-  "interests": [],
-  "references": []
+  ]
 }

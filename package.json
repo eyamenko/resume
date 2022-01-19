@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "jsonresume-theme-onepage": "0.0.3",
-    "resume-cli": "^3.0.0"
+    "jsonresume-theme-onepage": "^0.0.3",
+    "resume-cli": "^3.0.5"
   },
   "scripts": {
     "build": "resume export resume.html --theme onepage"
