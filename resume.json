@@ -33,9 +33,9 @@
       "website": "https://www.domain.com.au",
       "startDate": "2021-06-14",
       "highlights": [
+        "Led a backend team of software engineers that looked after listing related services.",
         "Reduced an average response time by 23% for a listing retrieval service by avoiding the file system buffering for large response objects.",
-        "Created a technology strategy for the team along with an audit of the existing solutions.",
-        "Performed regular knowledge sharing presentations for the team and the broader technology community within the company."
+        "Created a technology strategy for a team along with an audit of the existing solutions."
       ]
     },
     {
@@ -46,11 +46,11 @@
       "endDate": "2021-06-13",
       "highlights": [
         "Reduced cached data size by 72% by storing data in a compressed binary serialisation format leading to an improved network latency, lower bandwidth usage and more cached data.",
-        "Increased performance by 14% for an on-demand imaging service by migrating it to a different instance type and switching to an image engine optimised for that processor architecture.",
+        "Increased performance by 48% for an on-demand imaging service by modernising it and switching to an image engine optimised for the used processor architecture.",
         "Built an API backend and worker services for the off-market properties product.",
         "Reduced service operational costs by 60% by modernising and containerising 18 services; and utilising a scalable container management platform.",
         "Built a frontend application to manage listings in migration between listing providers.",
-        "Introduced and adopted infrastructure as code tools; and created libraries for deploying load balanced, worker and scheduled services.",
+        "Introduced and adopted infrastructure as code tools; and created a library for deploying load balanced, worker and scheduled services.",
         "Built a frontend application to manage related development projects."
       ]
     },
