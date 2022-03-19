@@ -33,7 +33,7 @@
       "website": "https://www.domain.com.au",
       "startDate": "2021-06-14",
       "highlights": [
-        "Led a backend team of software engineers that looked after listing related services.",
+        "Led a backend team responsible for listing related services.",
         "Reduced an average response time by 23% for a listing retrieval service by avoiding the file system buffering for large response objects.",
         "Created a technology strategy for a team along with an audit of the existing solutions."
       ]
