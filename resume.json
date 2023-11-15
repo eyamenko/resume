@@ -28,14 +28,27 @@
   },
   "work": [
     {
+      "company": "Amazon Web Services (AWS)",
+      "position": "Senior Software Development Engineer",
+      "website": "https://aws.amazon.com/redshift",
+      "startDate": "2022-03-27",
+      "highlights": [
+        "Technical Lead for Amazon Redshift’s cross-region snapshot copy component and credential vending service.",
+        "Reduced maximum cross-region snapshot copy processing time from 5.4 hours to 1.4 hours and reduced bandwidth consumption by 52%.",
+        "Increased availability for credential vending service to 99.99% and reduced latency by up to 93%.",
+        "Implemented shared EC2 instance tenancy support for capacity warmpools to improve capacity availability by up to 22 times."
+      ]
+    },
+    {
       "company": "Domain",
       "position": "Technical Lead",
       "website": "https://www.domain.com.au",
       "startDate": "2021-06-14",
+      "endDate": "2022-03-25",
       "highlights": [
-        "Led a backend team responsible for listing related services.",
+        "Technical Lead for Domain’s property listing backend services.",
         "Reduced an average response time by 23% for a listing retrieval service by avoiding the file system buffering for large response objects.",
-        "Created a technology strategy for the team along with an audit of the existing solutions."
+        "Created a technology strategy along with an audit of the existing solutions."
       ]
     },
     {
@@ -61,7 +74,7 @@
       "startDate": "2017-05-29",
       "endDate": "2018-02-02",
       "highlights": [
-        "Split the company’s main monolithic application into smaller maintainable applications.",
+        "Split InfoTrack’s main monolithic e-conveyancing application into smaller maintainable applications.",
         "Was a part of the architectural group, which advised on the software design and architecture."
       ]
     },
@@ -72,9 +85,9 @@
       "startDate": "2015-04-27",
       "endDate": "2017-05-26",
       "highlights": [
-        "Built a service to send out and track promotional and recommendation emails.",
+        "Built a frontend application for ClickView’s video learning resource platform to store and manage customer uploaded videos.",
         "Implemented a custom integration with Salesforce.",
-        "Built a frontend application for end users to store and manage uploaded videos.",
+        "Built a service to send out and track promotional and recommendation emails.",
         "Organised and regularly presented at the monthly internal knowledge sharing events."
       ]
     }
@@ -107,6 +120,7 @@
       "name": "Languages",
       "keywords": [
         "C#",
+        "Java",
         "JavaScript/TypeScript"
       ]
     },
