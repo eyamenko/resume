@@ -4,7 +4,7 @@
     "label": "Technical Lead",
     "email": "<EMAIL>",
     "phone": "<PHONE>",
-    "summary": "Skilful in backend, frontend and cloud technologies. Possession of strong communication and mentoring skills. Experience designing and building complex large scale data driven systems. Knowledge of best practices across the full software development life cycle.",
+    "summary": "Expertise in backend, frontend, and cloud technologies. Possession of strong communication and mentoring skills. Experience in designing and building complex large-scale data-driven systems. Knowledge of best practices across the full software development life cycle.",
     "location": {
       "city": "Sydney",
       "region": "Australia"
@@ -34,9 +34,9 @@
       "startDate": "2022-03-27",
       "highlights": [
         "Technical Lead for Amazon Redshift’s cross-region snapshot copy component (3 petabytes of copied snapshots/day) and credential vending service (200 million vended credentials/day).",
-        "Reduced maximum cross-region snapshot copy processing time from 5.4 hours to 1.4 hours and reduced maximum bandwidth consumption by 52%.",
+        "Reduced maximum cross-region snapshot copy processing time by 74% and maximum bandwidth consumption by 52%.",
         "Increased availability for credential vending service to 99.99% and reduced latency by up to 93%.",
-        "Implemented shared EC2 instance tenancy support for capacity warmpools to improve capacity availability by up to 22 times."
+        "Implemented shared EC2 instance tenancy support for capacity warmpools, improving capacity availability by up to 22 times."
       ]
     },
     {
@@ -47,8 +47,8 @@
       "endDate": "2022-03-25",
       "highlights": [
         "Technical Lead for Domain’s property listing backend services (7 thousand listing updates/minute and 25 thousand retrieved listings/minute).",
-        "Increased performance by 48% for an on-demand imaging service (11 thousand processed images/minute) by modernising it and switching to an image engine optimised for the used processor architecture.",
-        "Reduced an average response time by 23% for a listing retrieval service by avoiding the file system buffering for large response objects.",
+        "Improved performance by 48% for an on-demand imaging service (11 thousand processed images/minute) by modernizing it and switching to an image engine optimized for the used processor architecture.",
+        "Reduced average response time by 23% for a listing retrieval service by eliminating file system buffering for large response objects.",
         "Created a technology strategy along with an audit of the existing solutions."
       ]
     },
@@ -59,11 +59,11 @@
       "startDate": "2018-02-19",
       "endDate": "2021-06-13",
       "highlights": [
-        "Reduced cached data size by 72% by storing data in a compressed binary serialisation format leading to an improved network latency, lower bandwidth usage and more cached data.",
+        "Reduced cached data size by 72% by storing data in a compressed binary serialization format leading to improved network latency, lower bandwidth usage, and more cached data.",
         "Built an API backend and worker services for the off-market properties product.",
-        "Reduced service operational costs by 60% by modernising and containerising 18 services; and utilising a scalable container management platform.",
+        "Reduced service operational costs by 60% by modernizing and containerizing 18 services and utilizing a scalable container management platform.",
         "Built a frontend application to manage listings in migration between listing providers.",
-        "Introduced and adopted infrastructure as code tools; and created a library for deploying load balanced, worker and scheduled services.",
+        "Introduced and adopted infrastructure as code tools; and created a library for deploying load-balanced, worker, and scheduled services.",
         "Built a frontend application to manage related development projects."
       ]
     },
@@ -75,7 +75,7 @@
       "endDate": "2018-02-02",
       "highlights": [
         "Split InfoTrack’s main monolithic e-conveyancing service into regional microservices.",
-        "Was a part of the architectural group, which advised on the software design and architecture."
+        "Contributed to the architectural group, providing expertise on software design and architecture."
       ]
     },
     {
@@ -88,7 +88,7 @@
         "Built a frontend application for ClickView’s video learning resource platform to store and manage customer uploaded videos.",
         "Implemented a custom integration with Salesforce.",
         "Built a service to send out and track promotional and recommendation emails.",
-        "Organised and regularly presented at the monthly internal knowledge sharing events."
+        "Organized and regularly presented at the monthly internal knowledge sharing events."
       ]
     }
   ],
@@ -121,7 +121,8 @@
       "keywords": [
         "C#",
         "Java",
-        "JavaScript/TypeScript"
+        "JavaScript",
+        "TypeScript"
       ]
     },
     {
