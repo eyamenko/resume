@@ -33,7 +33,7 @@
       "website": "https://aws.amazon.com/redshift",
       "startDate": "2022-03-27",
       "highlights": [
-        "Technical Lead for Amazon Redshift’s cross-region snapshot copy component (3 petabytes of copied snapshots per day) and credential vending service (200 million vended credentials per day).",
+        "Technical Lead for Amazon Redshift’s cross-region snapshot copy component (3 petabytes of copied snapshots/day) and credential vending service (200 million vended credentials/day).",
         "Reduced maximum cross-region snapshot copy processing time from 5.4 hours to 1.4 hours and reduced maximum bandwidth consumption by 52%.",
         "Increased availability for credential vending service to 99.99% and reduced latency by up to 93%.",
         "Implemented shared EC2 instance tenancy support for capacity warmpools to improve capacity availability by up to 22 times."
@@ -46,8 +46,8 @@
       "startDate": "2021-06-14",
       "endDate": "2022-03-25",
       "highlights": [
-        "Technical Lead for Domain’s property listing backend services (7 thousand listing updates per minute and 25 thousand retrieved listings per minute).",
-        "Increased performance by 48% for an on-demand imaging service (11 thousand processed images per minute) by modernising it and switching to an image engine optimised for the used processor architecture.",
+        "Technical Lead for Domain’s property listing backend services (7 thousand listing updates/minute and 25 thousand retrieved listings/minute).",
+        "Increased performance by 48% for an on-demand imaging service (11 thousand processed images/minute) by modernising it and switching to an image engine optimised for the used processor architecture.",
         "Reduced an average response time by 23% for a listing retrieval service by avoiding the file system buffering for large response objects.",
         "Created a technology strategy along with an audit of the existing solutions."
       ]
@@ -74,7 +74,7 @@
       "startDate": "2017-05-29",
       "endDate": "2018-02-02",
       "highlights": [
-        "Split InfoTrack’s main monolithic e-conveyancing application into smaller maintainable applications.",
+        "Split InfoTrack’s main monolithic e-conveyancing service into regional microservices.",
         "Was a part of the architectural group, which advised on the software design and architecture."
       ]
     },
