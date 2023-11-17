@@ -35,7 +35,7 @@
       "highlights": [
         "Technical Lead for Amazon Redshift’s cross-region snapshot copy component (3 petabytes of copied snapshots/day) and credential vending service (200 million vended credentials/day).",
         "Reduced maximum cross-region snapshot copy processing time by 74% and maximum bandwidth consumption by 52%.",
-        "Increased availability for credential vending service to 99.99% and reduced latency by up to 93%.",
+        "Increased availability for the credential vending service to 99.99% and reduced latency by up to 93%.",
         "Implemented shared EC2 instance tenancy support for capacity warmpools, improving capacity availability by up to 22 times."
       ]
     },
@@ -85,10 +85,10 @@
       "startDate": "2015-04-27",
       "endDate": "2017-05-26",
       "highlights": [
-        "Built a frontend application for ClickView’s video learning resource platform to store and manage customer uploaded videos.",
+        "Built a frontend application for ClickView’s video learning resource platform to store and manage customer-uploaded videos.",
         "Implemented a custom integration with Salesforce.",
         "Built a service to send out and track promotional and recommendation emails.",
-        "Organized and regularly presented at the monthly internal knowledge sharing events."
+        "Organized and regularly presented at the monthly internal knowledge-sharing events."
       ]
     }
   ],
