@@ -11,8 +11,9 @@
     },
     "profiles": [
       {
-        "network": "Blog",
-        "url": "https://CodingComrade.com"
+        "network": "LinkedIn",
+        "username": "eyamenko",
+        "url": "https://linkedin.com/in/eyamenko"
       },
       {
         "network": "GitHub",
@@ -20,9 +21,8 @@
         "url": "https://github.com/eyamenko"
       },
       {
-        "network": "LinkedIn",
-        "username": "eyamenko",
-        "url": "https://linkedin.com/in/eyamenko"
+        "network": "Blog",
+        "url": "https://CodingComrade.com"
       }
     ]
   },
@@ -33,8 +33,8 @@
       "website": "https://aws.amazon.com/redshift",
       "startDate": "2022-03-27",
       "highlights": [
-        "Technical Lead for Amazon Redshift’s cross-region snapshot copy component and credential vending service.",
-        "Reduced maximum cross-region snapshot copy processing time from 5.4 hours to 1.4 hours and reduced bandwidth consumption by 52%.",
+        "Technical Lead for Amazon Redshift’s cross-region snapshot copy component (3 petabytes of copied snapshots per day) and credential vending service (200 million vended credentials per day).",
+        "Reduced maximum cross-region snapshot copy processing time from 5.4 hours to 1.4 hours and reduced maximum bandwidth consumption by 52%.",
         "Increased availability for credential vending service to 99.99% and reduced latency by up to 93%.",
         "Implemented shared EC2 instance tenancy support for capacity warmpools to improve capacity availability by up to 22 times."
       ]
@@ -46,7 +46,8 @@
       "startDate": "2021-06-14",
       "endDate": "2022-03-25",
       "highlights": [
-        "Technical Lead for Domain’s property listing backend services.",
+        "Technical Lead for Domain’s property listing backend services (7 thousand listing updates per minute and 25 thousand retrieved listings per minute).",
+        "Increased performance by 48% for an on-demand imaging service (11 thousand processed images per minute) by modernising it and switching to an image engine optimised for the used processor architecture.",
         "Reduced an average response time by 23% for a listing retrieval service by avoiding the file system buffering for large response objects.",
         "Created a technology strategy along with an audit of the existing solutions."
       ]
@@ -59,7 +60,6 @@
       "endDate": "2021-06-13",
       "highlights": [
         "Reduced cached data size by 72% by storing data in a compressed binary serialisation format leading to an improved network latency, lower bandwidth usage and more cached data.",
-        "Increased performance by 48% for an on-demand imaging service by modernising it and switching to an image engine optimised for the used processor architecture.",
         "Built an API backend and worker services for the off-market properties product.",
         "Reduced service operational costs by 60% by modernising and containerising 18 services; and utilising a scalable container management platform.",
         "Built a frontend application to manage listings in migration between listing providers.",
