@@ -4,7 +4,7 @@
     "label": "Technical Lead",
     "email": "<EMAIL>",
     "phone": "<PHONE>",
-    "summary": "Expertise in backend, frontend, and cloud technologies. Possession of strong communication and mentoring skills. Experience in designing and building complex large-scale data-driven systems. Knowledge of best practices across the full software development life cycle.",
+    "summary": "Expertise in backend, frontend, and cloud technologies, with strong communication and mentoring skills. Experience in designing and building complex, large-scale data-driven systems. Knowledge of best practices across the full software development life cycle.",
     "location": {
       "city": "Sydney",
       "region": "Australia"
@@ -36,7 +36,7 @@
         "Technical Lead for Amazon Redshift’s cross-region snapshot copy component (3 petabytes of copied snapshots/day) and credential vending service (200 million vended credentials/day).",
         "Reduced maximum cross-region snapshot copy processing time by 74% and maximum bandwidth consumption by 52%.",
         "Increased availability for the credential vending service to 99.99% and reduced latency by up to 93%.",
-        "Implemented shared EC2 instance tenancy support for capacity warmpools, improving capacity availability by up to 22 times."
+        "Implemented shared instance tenancy support for capacity warmpools, improving capacity availability by up to 22 times."
       ]
     },
     {
@@ -59,7 +59,7 @@
       "startDate": "2018-02-19",
       "endDate": "2021-06-13",
       "highlights": [
-        "Reduced cached data size by 72% by storing data in a compressed binary serialization format leading to improved network latency, lower bandwidth usage, and more cached data.",
+        "Reduced cached data size by 72% by storing data in a compressed binary serialization format, leading to improved network latency, lower bandwidth usage, and more cached data.",
         "Built an API backend and worker services for the off-market properties product.",
         "Reduced service operational costs by 60% by modernizing and containerizing 18 services and utilizing a scalable container management platform.",
         "Built a frontend application to manage listings in migration between listing providers.",
@@ -75,7 +75,7 @@
       "endDate": "2018-02-02",
       "highlights": [
         "Split InfoTrack’s main monolithic e-conveyancing service into regional microservices.",
-        "Contributed to the architectural group, providing expertise on software design and architecture."
+        "Contributed to the architectural group, providing expertise in software design and architecture."
       ]
     },
     {
@@ -117,7 +117,7 @@
   ],
   "skills": [
     {
-      "name": "Languages",
+      "name": "Programming Languages",
       "keywords": [
         "C#",
         "Java",
