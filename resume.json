@@ -35,7 +35,7 @@
       "highlights": [
         "Technical Lead for Amazon Redshift’s cross-region snapshot copy component (3 petabytes of copied snapshots/day) and credential vending service (200 million vended credentials/day).",
         "Reduced maximum cross-region snapshot copy processing time by 74% and maximum bandwidth consumption by 52%.",
-        "Increased availability for the credential vending service to 99.99% and reduced latency by up to 93%.",
+        "Increased availability for the credential vending service to 99.99% and reduced 99th percentile latency by up to 93%.",
         "Implemented shared instance tenancy support for capacity warmpools, improving capacity availability by up to 22 times."
       ]
     },
@@ -48,7 +48,7 @@
       "highlights": [
         "Technical Lead for Domain’s property listing backend services (7 thousand listing updates/minute and 25 thousand retrieved listings/minute).",
         "Improved performance by 48% for an on-demand imaging service (11 thousand processed images/minute) by modernizing it and switching to an image engine optimized for the used processor architecture.",
-        "Reduced average response time by 23% for a listing retrieval service by eliminating file system buffering for large response objects.",
+        "Reduced average latency by 23% for a listing retrieval service by eliminating file system buffering for large response objects.",
         "Created a technology strategy along with an audit of the existing solutions."
       ]
     },
