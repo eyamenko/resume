@@ -36,7 +36,8 @@
         "Technical Lead for Amazon Redshift’s cross-region snapshot copy component (3 petabytes of copied snapshots/day) and credential vending service (200 million vended credentials/day).",
         "Reduced maximum cross-region snapshot copy processing time by 74% and maximum bandwidth consumption by 52%.",
         "Increased availability for the credential vending service to 99.99% and reduced 99th percentile latency by up to 93%.",
-        "Implemented shared instance tenancy support for capacity warmpools, improving capacity availability by up to 22 times."
+        "Implemented shared instance tenancy support for capacity warmpools, improving capacity availability by up to 22 times.",
+        "Mentor, share knowledge, interview, help customers and fellow engineers."
       ]
     },
     {
