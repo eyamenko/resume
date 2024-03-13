@@ -7,6 +7,6 @@
     "resume-cli": "^3.0.5"
   },
   "scripts": {
-    "build": "resume export resume.html --theme onepage"
+    "build": "resume export resume.html --theme onepage && sed -i '' 's/AWARDS/CERTIFICATES/g' resume.html"
   }
 }

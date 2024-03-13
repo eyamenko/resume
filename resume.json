@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "Eugene Yamenko",
-    "label": "Technical Lead",
+    "name": "Marianna Yamenko",
+    "label": "Salesforce Lead",
     "email": "<EMAIL>",
     "phone": "<PHONE>",
-    "summary": "Expertise in backend, frontend, and cloud technologies, with strong communication and mentoring skills. Experience in designing and building complex, large-scale data-driven systems. Knowledge of best practices across the full software development life cycle.",
+    "summary": "Salesforce Lead with 8+ years of expertise in project leadership and end-to-end ownership of Salesforce platforms. Proficient in Sales Cloud, Service Cloud, Marketing Cloud, Marketing Cloud Account Engagement (Pardot), Nonprofit Success Pack (NPSP). Strong project management and mentoring skills.",
     "location": {
       "city": "Sydney",
       "region": "Australia"
@@ -12,151 +12,148 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "eyamenko",
-        "url": "https://linkedin.com/in/eyamenko"
+        "username": "marianna-yamenko-976017102",
+        "url": "https://www.linkedin.com/in/marianna-yamenko-976017102"
       },
       {
-        "network": "GitHub",
-        "username": "eyamenko",
-        "url": "https://github.com/eyamenko"
-      },
-      {
-        "network": "Blog",
-        "url": "https://CodingComrade.com"
+        "network": "Trailblazer",
+        "url": "https://trailblazer.me/id/mgoncharova"
       }
     ]
   },
   "work": [
     {
-      "company": "Amazon Web Services (AWS)",
-      "position": "Senior Software Development Engineer",
-      "website": "https://aws.amazon.com/redshift",
-      "startDate": "2022-03-27",
-      "highlights": [
-        "Technical Lead for Amazon Redshift’s cross-region snapshot copy component (3 petabytes of copied snapshots/day) and credential vending service (200 million vended credentials/day).",
-        "Reduced maximum cross-region snapshot copy processing time by 74% and maximum bandwidth consumption by 52%.",
-        "Increased availability for the credential vending service to 99.999% and reduced 99th percentile latency by up to 93%.",
-        "Implemented shared instance tenancy support for capacity warmpools, improving capacity availability by up to 22 times.",
-        "Mentor, share knowledge, interview, help customers and fellow engineers."
-      ]
-    },
-    {
-      "company": "Domain",
-      "position": "Technical Lead",
-      "website": "https://www.domain.com.au",
-      "startDate": "2021-06-14",
-      "endDate": "2022-03-25",
-      "highlights": [
-        "Technical Lead for Domain’s property listing backend services (7 thousand listing updates/minute and 25 thousand retrieved listings/minute).",
-        "Improved performance by 48% for an on-demand imaging service (11 thousand processed images/minute) by modernizing it and switching to an image engine optimized for the used processor architecture.",
-        "Reduced average latency by 23% for a listing retrieval service by eliminating file system buffering for large response objects.",
-        "Created a technology strategy along with an audit of the existing solutions."
-      ]
-    },
-    {
-      "company": "Domain",
-      "position": "Senior Software Engineer",
-      "website": "https://www.domain.com.au",
-      "startDate": "2018-02-19",
-      "endDate": "2021-06-13",
-      "highlights": [
-        "Reduced cached data size by 72% by storing data in a compressed binary serialization format, leading to improved network latency, lower bandwidth usage, and more cached data.",
-        "Built an API backend and worker services for the off-market properties product.",
-        "Reduced service operational costs by 60% by modernizing and containerizing 18 services and utilizing a scalable container management platform.",
-        "Built a frontend application to manage listings in migration between listing providers.",
-        "Introduced and adopted infrastructure as code tools; and created a library for deploying load-balanced, worker, and scheduled services.",
-        "Built a frontend application to manage related development projects."
-      ]
-    },
-    {
       "company": "InfoTrack",
-      "position": ".NET Developer",
+      "position": "Salesforce & Pardot Engineer",
       "website": "https://www.infotrack.com.au",
-      "startDate": "2017-05-29",
-      "endDate": "2018-02-02",
+      "startDate": "Jul 2021",
       "highlights": [
-        "Split InfoTrack’s main monolithic e-conveyancing service into regional microservices.",
-        "Contributed to the architectural group, providing expertise in software design and architecture."
+        "Salesforce and Marketing Cloud Account Engagement (Pardot) platform owner with a base of 170+ users across Australia, New Zealand, and the UK.",
+        "Led a project involving C-level stakeholders to achieve net revenue growth in the low spending client segment, which resulted in 53% net revenue increase.",
+        "Increased security compliance from 67% to 94% in the Salesforce org by implementing robust session settings and multi-factor authentication, which resulted in a significant reduction in security risks and enhanced protection against data breaches.",
+        "Built and deployed a complex lead qualification and routing system that reduced the overall lead qualification and assignment time by 300%.",
+        "Implemented an internal Salesforce knowledge base, reducing user requests by 19%.",
+        "Initiated and sent out a bi-monthly company-wide Salesforce newsletter, enhancing user adoption and productivity.",
+        "Introduced Scrum practices and DACI (Driver, Approver, Contributor, Informed) framework to the team to improve agility and delivery efficiency, resulting in faster project delivery, increased collaboration, and enhanced adaptability to changing requirements.",
+        "Lead internal \"Women in Tech\" community, mentor, share knowledge, help partners and fellow colleagues."
       ]
     },
     {
-      "company": "ClickView",
-      "position": "Software Engineer",
-      "website": "https://www.clickview.com.au",
-      "startDate": "2015-04-27",
-      "endDate": "2017-05-26",
+      "company": "Assistance Dogs Australia",
+      "position": "Salesforce Administrator",
+      "website": "https://www.assistancedogs.org.au",
+      "startDate": "May 2019",
+      "endDate": "Jun 2021",
       "highlights": [
-        "Built a frontend application for ClickView’s video learning resource platform to store and manage customer-uploaded videos.",
-        "Implemented a custom integration with Salesforce.",
-        "Built a service to send out and track promotional and recommendation emails.",
-        "Organized and regularly presented at the monthly internal knowledge-sharing events."
+        "Led the migration from a legacy CRM to Salesforce, which resulted in a seamless transition, zero data discrepancies, and improvement in data accessibility.",
+        "Established and implemented a robust security model in compliance with security standards and best practices, which significantly enhanced data protection, reducing security risks by 38%.",
+        "Led integration of Salesforce with Marketing Cloud, resulting in significant improvement in marketing automation processes.",
+        "Planned, built, and executed event-driven journeys across donor touchpoints, increasing lead conversion by 9%.",
+        "Played a pivotal role in adopting the Scrum framework within the team, leading to improved project management, collaboration, and adaptability."
+      ]
+    },
+    {
+      "company": "Philip Morris International",
+      "position": "Salesforce Administrator",
+      "website": "https://www.pmi.com",
+      "startDate": "Sep 2018",
+      "endDate": "Mar 2019",
+      "highlights": [
+        "Led the development of a complex lead distribution model for more than 200 cities across the country, which optimised lead management processes and increased lead conversion rates by 18%.",
+        "Redesigned the task creation process for the call centre, resulting in reducing task creation time from 4 hours to 1 minute.",
+        "Developed and continuously maintained 20+ flows to ensure the call centre's smooth and trouble-free operation, resulting in a 15% reduction in average handling time.",
+        "Provided technical support for 500+ users across the country, ensuring seamless Salesforce operation and user satisfaction.",
+        "Leveraged Pardot Engagement Studio to create automated programs for sales and marketing, contributing to an 11% increase in customer retention."
+      ]
+    },
+    {
+      "company": "Bodytreats Australia",
+      "position": "Marketing and Sales Administrator",
+      "website": "https://www.facebook.com/BodyTreatsBeauty",
+      "startDate": "Apr 2016",
+      "endDate": "Aug 2018",
+      "highlights": [
+        "Increased the median email campaign open rate from 10.9% to 24.5% and click-through rate from 3.7% to 4.6%.",
+        "Successfully increased organic traffic for the website by 39% within 6 months."
+      ]
+    },
+    {
+      "company": "Harvest Power Group",
+      "position": "Salesforce Administrator (contract)",
+      "website": "https://www.linkedin.com/company/harvest-power-group",
+      "startDate": "May 2016",
+      "endDate": "Oct 2016",
+      "highlights": [
+        "Managed establishing of a new Salesforce org, meeting 100% of stakeholder requirements within the targeted timeline.",
+        "Reduced data import time by 49% through optimised processes and improved duplicate management, resulting in a 22% decrease in data discrepancies.",
+        "Conducted Salesforce training programs across the organisation, achieving a 98% satisfaction rate among participants and ensuring a 25% increase in user proficiency."
+      ]
+    },
+    {
+      "company": "Study Network Australia",
+      "position": "Salesforce Administrator (contract)",
+      "website": "https://www.linkedin.com/company/study-network-australia",
+      "startDate": "Feb 2016",
+      "endDate": "Apr 2016",
+      "highlights": [
+        "Planned and executed email campaigns, resulting in a 23% growth of the prospective student database and a 13% increase in retention rate.",
+        "Streamlined data reporting processes, achieving a 40% reduction in reconciliation time on a weekly basis.",
+        "Enhanced overall system performance by improving data accuracy by 15%, contributing to more effective decision-making and system reliability."
       ]
     }
   ],
   "education": [
     {
-      "institution": "Central Queensland University",
-      "area": "Information Technology",
-      "studyType": "Master’s degree with Distinction",
-      "startDate": "2013-07-01",
-      "endDate": "2015-07-27"
-    },
-    {
-      "institution": "International Scientific and Technical University",
-      "area": "Information Management Systems and Technologies",
-      "studyType": "Master’s degree",
-      "startDate": "2010-09-15",
-      "endDate": "2012-03-27"
-    },
-    {
-      "institution": "International Scientific and Technical University",
-      "area": "Computer Science",
-      "studyType": "Bachelor’s degree",
-      "startDate": "2006-10-01",
-      "endDate": "2010-06-29"
+      "institution": "Khabarovsk State Academy of Economics and Law",
+      "area": "Advertising",
+      "studyType": "Bachelor’s degree with Distinction",
+      "startDate": "Sep 2005",
+      "endDate": "May 2010"
     }
   ],
   "skills": [
     {
-      "name": "Programming Languages",
+      "name": "Salesforce Products",
       "keywords": [
-        "C#",
-        "Java",
-        "JavaScript",
-        "TypeScript"
+        "Sales Cloud",
+        "Service Cloud",
+        "Marketing Cloud",
+        "Marketing Cloud Account Engagement (Pardot)",
+        "Nonprofit Success Pack (NPSP)"
       ]
     },
     {
-      "name": "Databases",
+      "name": "Salesforce Development",
       "keywords": [
-        "Microsoft SQL Server",
-        "DynamoDB",
-        "Redis"
+        "Apex Triggers",
+        "Apex Classes",
+        "Flows",
+        "Salesforce Object Query Language (SOQL)"
       ]
     },
     {
-      "name": "Infrastructure",
+      "name": "Project Management",
       "keywords": [
-        "AWS",
-        "AWS Cloud Development Kit",
-        "Docker"
+        "Agile/Scrum Framework",
+        "DACI (Driver, Approver, Contributor, Informed) Framework",
+        "Jira",
+        "Asana",
+        "Trello"
       ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Salesforce Certified Administrator",
+      "date": "May 2018"
     },
     {
-      "name": "Frameworks",
-      "keywords": [
-        "ASP.NET Core",
-        "React"
-      ]
+      "title": "Salesforce Certified Marketing Cloud Email Specialist",
+      "date": "Oct 2020"
     },
     {
-      "name": "Others",
-      "keywords": [
-        "Microservices",
-        "Agile software development",
-        "Test-driven development",
-        "Git"
-      ]
+      "title": "Certified Scrum Master",
+      "date": "Oct 2020"
     }
   ]
 }
