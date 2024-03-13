@@ -31,7 +31,7 @@
       "company": "Amazon Web Services (AWS)",
       "position": "Senior Software Development Engineer",
       "website": "https://aws.amazon.com/redshift",
-      "startDate": "2022-03-27",
+      "startDate": "Mar 2022",
       "highlights": [
         "Technical Lead for Amazon Redshift’s cross-region snapshot copy component (3 petabytes of copied snapshots/day) and credential vending service (200 million vended credentials/day).",
         "Reduced maximum cross-region snapshot copy processing time by 74% and maximum bandwidth consumption by 52%.",
@@ -44,8 +44,8 @@
       "company": "Domain",
       "position": "Technical Lead",
       "website": "https://www.domain.com.au",
-      "startDate": "2021-06-14",
-      "endDate": "2022-03-25",
+      "startDate": "Jun 2021",
+      "endDate": "Mar 2022",
       "highlights": [
         "Technical Lead for Domain’s property listing backend services (7 thousand listing updates/minute and 25 thousand retrieved listings/minute).",
         "Improved performance by 48% for an on-demand imaging service (11 thousand processed images/minute) by modernizing it and switching to an image engine optimized for the used processor architecture.",
@@ -57,8 +57,8 @@
       "company": "Domain",
       "position": "Senior Software Engineer",
       "website": "https://www.domain.com.au",
-      "startDate": "2018-02-19",
-      "endDate": "2021-06-13",
+      "startDate": "Feb 2018",
+      "endDate": "Jun 2021",
       "highlights": [
         "Reduced cached data size by 72% by storing data in a compressed binary serialization format, leading to improved network latency, lower bandwidth usage, and more cached data.",
         "Built an API backend and worker services for the off-market properties product.",
@@ -72,8 +72,8 @@
       "company": "InfoTrack",
       "position": ".NET Developer",
       "website": "https://www.infotrack.com.au",
-      "startDate": "2017-05-29",
-      "endDate": "2018-02-02",
+      "startDate": "May 2017",
+      "endDate": "Feb 2018",
       "highlights": [
         "Split InfoTrack’s main monolithic e-conveyancing service into regional microservices.",
         "Contributed to the architectural group, providing expertise in software design and architecture."
@@ -83,8 +83,8 @@
       "company": "ClickView",
       "position": "Software Engineer",
       "website": "https://www.clickview.com.au",
-      "startDate": "2015-04-27",
-      "endDate": "2017-05-26",
+      "startDate": "Apr 2015",
+      "endDate": "May 2017",
       "highlights": [
         "Built a frontend application for ClickView’s video learning resource platform to store and manage customer-uploaded videos.",
         "Implemented a custom integration with Salesforce.",
@@ -98,22 +98,22 @@
       "institution": "Central Queensland University",
       "area": "Information Technology",
       "studyType": "Master’s degree with Distinction",
-      "startDate": "2013-07-01",
-      "endDate": "2015-07-27"
+      "startDate": "Jul 2013",
+      "endDate": "Jul 2015"
     },
     {
       "institution": "International Scientific and Technical University",
       "area": "Information Management Systems and Technologies",
       "studyType": "Master’s degree",
-      "startDate": "2010-09-15",
-      "endDate": "2012-03-27"
+      "startDate": "Sep 2010",
+      "endDate": "Mar 2012"
     },
     {
       "institution": "International Scientific and Technical University",
       "area": "Computer Science",
       "studyType": "Bachelor’s degree",
-      "startDate": "2006-10-01",
-      "endDate": "2010-06-29"
+      "startDate": "Oct 2006",
+      "endDate": "Jun 2010"
     }
   ],
   "skills": [
