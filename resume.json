@@ -34,7 +34,7 @@
         "Built and deployed a complex lead qualification and routing system that reduced the overall lead qualification and assignment time by 300%.",
         "Implemented an internal Salesforce knowledge base, reducing user requests by 19%.",
         "Initiated and sent out a bi-monthly company-wide Salesforce newsletter, enhancing user adoption and productivity.",
-        "Introduced Scrum practices and DACI (Driver, Approver, Contributor, Informed) framework to the team to improve agility and delivery efficiency, resulting in faster project delivery, increased collaboration, and enhanced adaptability to changing requirements.",
+        "Introduced Scrum practices and DACI framework to the team to improve agility and delivery efficiency, resulting in faster project delivery, increased collaboration, and enhanced adaptability to changing requirements.",
         "Lead internal \"Women in Tech\" community, mentor, share knowledge, help partners and fellow colleagues."
       ]
     },
@@ -135,7 +135,7 @@
       "name": "Project Management",
       "keywords": [
         "Agile/Scrum Framework",
-        "DACI (Driver, Approver, Contributor, Informed) Framework",
+        "DACI Framework",
         "Jira",
         "Asana",
         "Trello"
